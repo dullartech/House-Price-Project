@@ -68,7 +68,7 @@ model = pickle.load(open('housePriceModel.pkl', "rb"))
 
 st.markdown("<h1 style = 'color: #0A2647; text-align: center; font-family: helvetica '>HOUSE PRICE PREDICTION</h1>", unsafe_allow_html = True)
 
-st.markdown("<h4 style = 'margin: -30px; color: #FF87CA; text-align: center; font-family: cursive '>Built By GomyCode Orpheus</h4>", unsafe_allow_html = True)
+st.markdown("<h4 style = 'margin: -30px; color: #FF87CA; text-align: center; font-family: cursive '>Built By Dullar Tech</h4>", unsafe_allow_html = True)
 st.image('pngwng.com.png')
 
 password = ['one', 'two', 'three']
